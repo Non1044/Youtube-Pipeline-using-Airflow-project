@@ -1,6 +1,7 @@
 # YouTube Data Pipeline using Airflow and Python
 
 ## Overview
+![Workflow picture](airflow_workflow.png)
 
 This is an end-to-end data engineering project that demonstrates how to build a data pipeline to extract, transform, and load (ETL) YouTube comment data using Apache Airflow and Python. In this project, we will:
 
